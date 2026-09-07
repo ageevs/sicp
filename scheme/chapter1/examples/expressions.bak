@@ -1,0 +1,11 @@
+#lang sicp
+; Simple expressions
+486
+; Compound expressions
+(+ 137 349)
+(- 1000 334)
+(* 5 99)
+(/ 10 5)
+(+ 2.7 10)
+; Nested expressions
+(+ (* 3 5) (- 10 6) 1)
